@@ -1,0 +1,29 @@
+:root {
+    --accent-color: #DD2242;
+    --title-color: #FFF;
+    --text-color: #E0E0E0;
+}
+
+.header-title {
+    color: var(--title-color);
+}
+
+.nav-page {
+    color: var(--title-color);
+}
+
+.hero-num {
+    color: var(--title-color);
+}
+
+.socnet-item {
+    color: var(--title-color);
+}
+
+.hero-title {
+    color: var(--title-color);
+}
+
+.hero-item-title {
+    color: var(--title-color);
+}

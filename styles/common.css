@@ -4,8 +4,19 @@ button {
 
  .container {
     width: 1200px;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 0 15px;
+    margin:  0 auto;
+}
+
+.button {
+    color: var(--title-color);
+    background-color: var(--accent-color);
+}
+
+.title {
+    color: var(--title-color);
+}
+
+.text {
+    color: var(--text-color);
 }
